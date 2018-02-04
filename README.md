@@ -1,2 +1,2 @@
 # NLP
-Generic codes related to NLP
+NLP Resources and codes are present in this folder

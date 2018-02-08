@@ -5,7 +5,7 @@ Good resources for learning NLP is present in this folder.
 2. [Text Mining with R](http://www.nltk.org/book/)
 
 ### Courses in NLP ###
-1. [Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+1. [Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) by Stanford
 2. [Natural Language Processing](https://www.coursera.org/learn/language-processing) by National Research University Higher School of Economics
 3. [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining) by University of Michigan
 4. [Natural Language Processing](https://www.edx.org/course/natural-language-processing-nlp-microsoft-dev288x) by Microsoft

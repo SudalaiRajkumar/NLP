@@ -15,3 +15,5 @@ Good resources for learning NLP is present in this folder.
 1. [NLP Tutorial](https://github.com/bonzanini/nlp-tutorial) by Marco Bonzanini
 2. [NLP Tutorial](https://github.com/neubig/nlptutorial) by Graham Beubig
 3. [Deep Learning for NLP Tutorial](https://github.com/UKPLab/deeplearning4nlp-tutorial) by UKPLab 
+4. [Introduction to Deep Learning for Natural Language Processing](https://github.com/rouseguy/DeepLearning-NLP) by Bargava
+
